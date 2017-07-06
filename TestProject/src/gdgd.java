@@ -1,8 +1,10 @@
 
 public class gdgd {
 
-	private void Sddyso() {
-		// TODO 自動生成されたメソッド・スタブ
 
-}
+	public static void main(String[] args) {
+
+		System.out.println("Test2");
+	}
+
 }
