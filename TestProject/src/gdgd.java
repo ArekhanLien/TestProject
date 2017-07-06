@@ -1,7 +1,7 @@
 
 public class gdgd {
 
-	private void Syso() {
+	private void Sddyso() {
 		// TODO 自動生成されたメソッド・スタブ
 
 }
